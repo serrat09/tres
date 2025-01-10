@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interfaz Formal y Colorida</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            margin: 20px 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.8em;
+        }
+        .video-container, .audio-container {
+            margin: 20px 0;
+            border: 2px solid #4CAF50;
+            padding: 10px;
+            border-radius: 8px;
+            background-color: #ffffff;
+        }
+        .pdf-link {
+            display: inline-block;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .pdf-link:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>PRINCIPIOS DEL BÁSQUETBOL</h1>
+</header>
+
+<section>
+    <h2>Video de bienvenidaxd</h2>
+    <p>En esta página web nos adentraremos al deporte de manera divertida y accesible, fomentando el aprendizaje a través de recursos interactivos como juegos y videos. Busca promover hábitos saludables, valores como el trabajo en equipo y la perseverancia, e inspirar interés en el básquetbol como actividad recreativa y formativa. Aquí podrás encontrar recursos útiles y actividades para disfrutar.</p>
+    <div class="video-container">     
+            <source src="WhatsAppVideo2024-12-28at22.56.42.mp4">
+    </div>
+</section>
+<h2>!COMENZAMOS!</h1>
+    <p> A continuación se mostrara un pdf que aboradara el tema de la historia del basquetbol, después de su lectura deberás resolver una sencilla actividad 
+        <section>
+            <h2>Archivo PDF</h2>
+            <embed src="C:\Users\Lenovo\Desktop\proyecto final\historia-del-bc3a1squetbol.pdf" type="application/pdf" width="600" height="400" />
+            <p>Resuelve la siguiente actividad, se escogera una parrafo del texto leido anteriormente, deberas de buscar y completar las oraciones, con las palabras señaladas en la actividad. Ten mucho cuidado porque solo tendras 5 vidas para resolver este ejercicio. !Suerte!:</p>
+            <ul>
+                <iframe allow="fullscreen; autoplay;" allowfullscreen width="400" height="400" frameborder="0" src="https://es.educaplay.com/juego/21903152-juego_de_rellenar_huecos_mejora_tu_comprension.html"></iframe>
+            </ul>
+            <p>¿Qué te ha parecido esta actividad?, a continuación te mostraremos un video explicando el tema ¿Cómo jugar al baloncesto?, al finalizar el video deberas responder un crucigrama</p>
+            <div class="video-container">
+                <video width="600" controls>
+                    <source src="C:\Users\Lenovo\Desktop\proyecto final\¿Cómo se juega Reglas básicas  Baloncesto.mp4" type="video/mp4">
+                    Tu navegador no soporta el video.
+                </video>
+            </div>
+            <iframe allow="fullscreen; autoplay;" allowfullscreen width="600" height="400" frameborder="0" src="C:\Users\Lenovo\Desktop\proyecto final\crucigrama.htm"></iframe>
+            <p>Pero antes de que comiences a tomar tu balón de basquet debemos conocer las partes de una cancha de basqeutbol y mucas cosas más, presta mucha atención a la siguiente lectura y contesta la sopa de letras al finalizar la lectura </p>
+
+                <embed src="C:\Users\Lenovo\Desktop\proyecto final\Partes de una cancha de basquetbol.pdf" type="application/pdf" width="600" height="400" />
+                <iframe allow="fullscreen; autoplay;" allowfullscreen width="400" height="400" frameborder="0" src="https://es.educaplay.com/juego/21905212-sopa_de_letras.html"></iframe>
+                <p>Tambien tenemos para ti una imagen interactiva sobre el tema, pulsa los íconos de información si quieres conocer cada una de las partes de la cancha y en dónde se encuentran 
+
+                    <script src="https://monskz09.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+                    <iframe src="https://monskz09.h5p.com/content/1292469693424870088/embed" aria-label="Cancha de basquetbol" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://monskz09.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+                    <p>Ya entendimos las partes de las canchas y cómo se juega, pero ¿con qué se juega?. A continuación te daremos un pequeño texto explicando que es un balón de basquetbol y algunas de sus características al finalizar la lectura deberás resolver un pequeño rompecabezas, descubre que objeto se forma al terminar el rompecabezasb (podrás voltear las piezas con clic derecho para que encajen correctamente).</p>
+                    <embed src="C:\Users\Lenovo\Desktop\proyecto final\Qué es un balón de Básquetbol y Cuáles son sus Características.pdf" type="application/pdf" width="600" height="400" />
+                    <iframe src="https://www.jigsawplanet.com/?rc=play&amp;pid=1d8b66c5932d&amp;view=iframe&amp;bgcolor=0xb8eaff" style="width:100%;height:600px" frameborder="0" allowfullscreen></iframe>
+                   
+                    <p>Aún no hemos terminado, nos falta conocer las medidas de los balones, a continuación podrás escuchar un audio dónde se expliacará brevemente las medidas de este. ¡Presta mucha atención! al final deberás realizar una pequeña actividad.</p>
+                        <h3>Reproductor de Audio</h3>
+                            <audio controls>
+                                <source src="C:\Users\Lenovo\Desktop\proyecto final\balóndebasquet.mp3" type="audio/mpeg">
+                                Tu navegador no soporta el elemento de audio.
+                            </audio>
+                        <iframe allow="fullscreen; autoplay;" allowfullscreen width="400" height="400" frameborder="0" src="https://es.educaplay.com/juego/21902820-relacion_de_columnas.html"></iframe>
+                        
+                    <p>A continuación presentaremos los fundamentos técnicos y tácticos básicos del básquetbol, deberás responder las actividades de estos temas</p>
+                    <embed src="C:\Users\Lenovo\Desktop\proyecto final\fundamentos tacticos del basquetbol.pdf" type="application/pdf" width="600" height="400" />
+                    
+                    <iframe allow="fullscreen; autoplay;" allowfullscreen width="400" height="400" frameborder="0" src="https://es.educaplay.com/juego/21931488-desafio_de_tacticas_de_baloncesto.html"></iframe>
+                    <iframe allow="fullscreen; autoplay;" allowfullscreen width="400" height="400" frameborder="0" src="https://es.educaplay.com/juego/21909628-video_quizz.html"></iframe>
+
+<p>Creo que ha sido todo lo que podrías aprender por hoy, para terminar deberás resolver un pequeño exámen, pero no te preocupes que todas las preguntas seguramente ya las has visto en los anteriores ejercicios. ¡Suerte! </p>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0A3v9eGp9yZ8xtVNoOvkgwA9i0EcVpwg18Z9nqt_l_bvJWw/viewform?embedded=true" width="640" height="1965" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+
+</body>
+</html>
